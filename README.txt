@@ -1,6 +1,7 @@
 BOGADO GARCIA Maximino
 L3 Informatique
 
+Pour plus d'informations sur la machine RAM: http://zanotti.univ-tln.fr/ALGO/II/MachineRAM.html
 TP8
 Compilateur Algo - RAM |
 
