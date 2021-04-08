@@ -1,0 +1,20 @@
+# BOGADO GARCIA Maximino L3 Informatique
+# ALGORITHME QUI DETERMINE SI UN NOMBRE DONNE EST PREMIER OU NON
+# LE RESULTAT EST AFFICHE SUR LA SORTIE STANDARD
+DEBUT
+VAR estpremier
+estpremier <- 1
+VAR toto
+LIRE toto
+VAR i
+i <- 2
+TQ i<toto FAIRE
+	SI toto%i = 0 ALORS
+		estpremier <- 0
+	SINON
+		VAR nerienfaire
+	FSI
+	i <- i + 1
+FTQ
+AFFICHER estpremier
+FIN
